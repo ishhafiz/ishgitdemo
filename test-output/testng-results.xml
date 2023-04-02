@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-04T21:16:43 CST" name="Default suite" finished-at="2023-02-04T21:16:43 CST" duration-ms="58">
+    <groups>
+    </groups>
+    <test started-at="2023-02-04T21:16:43 CST" name="Default test" finished-at="2023-02-04T21:16:43 CST" duration-ms="58">
+      <class name="testng_automation_code_jan_31st_2023.Annotations">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:testng_automation_code_jan_31st_2023.Annotations@75437611]" started-at="2023-02-04T21:16:43 CST" name="beforeSuite" finished-at="2023-02-04T21:16:43 CST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:testng_automation_code_jan_31st_2023.Annotations@75437611]" started-at="2023-02-04T21:16:43 CST" name="beforeTest" finished-at="2023-02-04T21:16:43 CST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:testng_automation_code_jan_31st_2023.Annotations@75437611]" started-at="2023-02-04T21:16:43 CST" name="beforeClass" finished-at="2023-02-04T21:16:43 CST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testng_automation_code_jan_31st_2023.Annotations@75437611]" started-at="2023-02-04T21:16:43 CST" name="beforeMethod" finished-at="2023-02-04T21:16:43 CST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testCase1()[pri:0, instance:testng_automation_code_jan_31st_2023.Annotations@75437611]" started-at="2023-02-04T21:16:43 CST" name="testCase1" finished-at="2023-02-04T21:16:43 CST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testng_automation_code_jan_31st_2023.Annotations@75437611]" started-at="2023-02-04T21:16:43 CST" name="afterMethod" finished-at="2023-02-04T21:16:43 CST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testng_automation_code_jan_31st_2023.Annotations@75437611]" started-at="2023-02-04T21:16:43 CST" name="beforeMethod" finished-at="2023-02-04T21:16:43 CST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testCase2()[pri:0, instance:testng_automation_code_jan_31st_2023.Annotations@75437611]" started-at="2023-02-04T21:16:43 CST" name="testCase2" finished-at="2023-02-04T21:16:43 CST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testng_automation_code_jan_31st_2023.Annotations@75437611]" started-at="2023-02-04T21:16:43 CST" name="afterMethod" finished-at="2023-02-04T21:16:43 CST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testng_automation_code_jan_31st_2023.Annotations@75437611]" started-at="2023-02-04T21:16:43 CST" name="beforeMethod" finished-at="2023-02-04T21:16:43 CST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testCase3()[pri:0, instance:testng_automation_code_jan_31st_2023.Annotations@75437611]" started-at="2023-02-04T21:16:43 CST" name="testCase3" finished-at="2023-02-04T21:16:43 CST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase3 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testng_automation_code_jan_31st_2023.Annotations@75437611]" started-at="2023-02-04T21:16:43 CST" name="afterMethod" finished-at="2023-02-04T21:16:43 CST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:testng_automation_code_jan_31st_2023.Annotations@75437611]" started-at="2023-02-04T21:16:43 CST" name="afterClass" finished-at="2023-02-04T21:16:43 CST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:testng_automation_code_jan_31st_2023.Annotations@75437611]" started-at="2023-02-04T21:16:43 CST" name="afterTest" finished-at="2023-02-04T21:16:43 CST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:testng_automation_code_jan_31st_2023.Annotations@75437611]" started-at="2023-02-04T21:16:43 CST" name="afterSuite" finished-at="2023-02-04T21:16:43 CST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testng_automation_code_jan_31st_2023.Annotations -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
