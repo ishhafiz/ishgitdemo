@@ -9,6 +9,7 @@ public class DropDown_Code {
 		WebDriver driver = new ChromeDriver();
 		driver.manage().window().maximize();
 		driver.get("https://amazon.com");
+		// add new code
 
 	}
 
